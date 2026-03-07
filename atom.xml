@@ -1,27 +1,642 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <author>
-    <name>John Doe</name>
+    <name>董卓</name>
   </author>
   <generator uri="https://hexo.io/">Hexo</generator>
   <icon>https://sishen.xihale.top/icon.png</icon>
   <id>https://sishen.xihale.top/</id>
   <link href="https://sishen.xihale.top/" rel="alternate"/>
   <link href="https://sishen.xihale.top/atom.xml" rel="self"/>
-  <rights>All rights reserved 2026, John Doe</rights>
-  <title>Hexo</title>
-  <updated>2026-03-07T06:50:25.657Z</updated>
+  <rights>All rights reserved 2026, 董卓</rights>
+  <subtitle>一些所思所想</subtitle>
+  <title>董卓有话说</title>
+  <updated>2026-03-07T07:58:33.341Z</updated>
   <entry>
     <author>
-      <name>John Doe</name>
+      <name>董卓</name>
     </author>
-    <id>https://sishen.xihale.top/2026/03/07/hello-world/</id>
-    <link href="https://sishen.xihale.top/2026/03/07/hello-world/"/>
-    <published>2026-03-07T06:51:09.758Z</published>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2026/02/09/38.2026.2.9/</id>
+    <link href="https://sishen.xihale.top/2026/02/09/38.2026.2.9/"/>
+    <published>2026-02-08T16:00:00.000Z</published>
     <summary>
-      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a>]]>
+      <![CDATA[<h2 id="珍惜时间"><a href="#珍惜时间" class="headerlink"]]>
     </summary>
-    <title>Hello World</title>
-    <updated>2026-03-07T06:50:25.657Z</updated>
+    <title>珍惜时间的深刻体会</title>
+    <updated>2026-03-07T07:58:33.341Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2026/01/17/37.2026.0117/</id>
+    <link href="https://sishen.xihale.top/2026/01/17/37.2026.0117/"/>
+    <published>2026-01-16T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="繁华与质朴"><a href="#繁华与质朴" class="headerlink"]]>
+    </summary>
+    <title>繁华与质朴的人生感悟</title>
+    <updated>2026-03-07T07:58:33.340Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2026/01/14/36.2026.0114/</id>
+    <link href="https://sishen.xihale.top/2026/01/14/36.2026.0114/"/>
+    <published>2026-01-13T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="心态的转变"><a href="#心态的转变" class="headerlink"]]>
+    </summary>
+    <title>心态的转变与佛系生活</title>
+    <updated>2026-03-07T07:58:33.338Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2026/01/13/35.2026.0113/</id>
+    <link href="https://sishen.xihale.top/2026/01/13/35.2026.0113/"/>
+    <published>2026-01-12T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="二八定律在婚恋市场中的映射"><a href="#二八定律在婚恋市场中的映射" class="headerlink"]]>
+    </summary>
+    <title>二八定律在婚恋市场中的映射</title>
+    <updated>2026-03-07T07:58:33.337Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2026/01/11/34.2026%200111/</id>
+    <link href="https://sishen.xihale.top/2026/01/11/34.2026%200111/"/>
+    <published>2026-01-10T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="回家"><a href="#回家" class="headerlink"]]>
+    </summary>
+    <title>回家路上的思乡之情</title>
+    <updated>2026-03-07T07:58:33.335Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2026/01/10/33.2026%2001%2010/</id>
+    <link href="https://sishen.xihale.top/2026/01/10/33.2026%2001%2010/"/>
+    <published>2026-01-09T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>这个行李箱挂钩着我的很多思绪。我高一提着行李箱入学时的无所适从。去外省旅游时的激动和担忧。大学开学一个人前往外地入学报道时的懵懂和想家。]]>
+    </summary>
+    <title>行李箱承载的青春记忆</title>
+    <updated>2026-03-07T07:58:33.334Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2026/01/07/32.2026%200107/</id>
+    <link href="https://sishen.xihale.top/2026/01/07/32.2026%200107/"/>
+    <published>2026-01-06T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>世上需要少量决策人和大量执行人</p>
+<p>让自己过得更舒服需要是自己成为少数人，赚多数人的钱</p>]]>
+    </summary>
+    <title>少数人思维与多数人规则</title>
+    <updated>2026-03-07T07:58:33.332Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2026/01/05/31.2026.1.5/</id>
+    <link href="https://sishen.xihale.top/2026/01/05/31.2026.1.5/"/>
+    <published>2026-01-04T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>网上看到一个很有意思的观点，西式教育服务的对象是企业和资本，于是教学的内容和实际生活比较贴切。而中式教育服务的对象主要是国家和社会，于是客观上更需要服从性。</p>
+<p>想要解析中式教育，得顺便提到儒家文化和科举制度。在古代，科举制度的选拔逻辑是标准答案和体制内的工作能力]]>
+    </summary>
+    <title>对中式教育的深度思考</title>
+    <updated>2026-03-07T07:58:33.331Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2026/01/03/30.2026.1.3/</id>
+    <link href="https://sishen.xihale.top/2026/01/03/30.2026.1.3/"/>
+    <published>2026-01-02T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>我总在想着我似乎虚度了光阴，每当我玩完游戏感到空虚时，我总在反思这个学期似乎没学到什么东西。说来也是，我并不认为自己比九月份时变化了多少，但我的直觉告诉我应该弄出一点变化，得尽可能的多学东西。我感到有点割裂。看到周围的人都在肉眼可见的快速成长，我实在是有点羡慕他们的天赋、勤]]>
+    </summary>
+    <title>新年伊始的迷茫与期许</title>
+    <updated>2026-03-07T07:58:33.330Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/12/28/29.2025%2012%2028/</id>
+    <link href="https://sishen.xihale.top/2025/12/28/29.2025%2012%2028/"/>
+    <published>2025-12-27T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>一个平静的周末过去了，在周五的时候励志要完成程序设计的期末作业。我想着手弄一个小游戏，尝试使用easyx，smfl，raylib这几个方式来设计图形用户界面，但很遗憾，走了很多弯路，到目前也没能成功，甚至连环境都配置不了，不得不感叹人与人之间的差距。优秀的人往往在多个方面都]]>
+    </summary>
+    <title>年末总结与新年展望</title>
+    <updated>2026-03-07T07:58:33.328Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/12/25/28.2025.12.25/</id>
+    <link href="https://sishen.xihale.top/2025/12/25/28.2025.12.25/"/>
+    <published>2025-12-24T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>不知道是不是昨天太晚睡了，今天一整天都没什么精神，没心思学习，看不下去题目。是错觉吗，今天早上起床发现皮肤明显变好了，可能是因为昨天吃了超大一块肘子吧。</p>
+<p>我发现校园周边多了很多“小象超市”的员工在做宣传，路过时稍微了解了一下，好像是类似帮忙跑腿买东西并且送货上]]>
+    </summary>
+    <title>圣诞节的孤独与思考</title>
+    <updated>2026-03-07T07:58:33.327Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/12/23/27.2025.12.23/</id>
+    <link href="https://sishen.xihale.top/2025/12/23/27.2025.12.23/"/>
+    <published>2025-12-22T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>翻了一下以前的聊天记录，真是感叹事教人一下就会。<br>大概是高三那年九月份，班里有个虾头男生A骚扰班里一个女生（应该算是骚扰吧，没想到更准确的词）<br>他平时比较装，于是我们班的男生大多都不喜欢他，在“五倍赔偿”的事情发生后更加如此。<br>即使五倍赔偿的人不是我，我也]]>
+    </summary>
+    <title>往事回忆与成长感悟</title>
+    <updated>2026-03-07T07:58:33.325Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/12/22/26.%202025%2012.22%2013%EF%BC%9A21/</id>
+    <link href="https://sishen.xihale.top/2025/12/22/26.%202025%2012.22%2013%EF%BC%9A21/"/>
+    <published>2025-12-21T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>我的身体有着明显的缺陷，在我小时候我就发现我的两侧的肋骨高低不同，一边比另一边突起些。随着年龄的增长，两侧的差异越来越大。上了初中，我发现右侧缺少了块胸大肌。初中时看的医生，只是说我脊柱侧弯和驼背带来的影响，但我认为是肌肉的缺乏导致的脊柱侧弯。真是个庸医啊。时至今日，在日常]]>
+    </summary>
+    <title>冬至时节的温暖思考</title>
+    <updated>2026-03-07T07:58:33.324Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/12/19/25.2025%2012.19%2023.17/</id>
+    <link href="https://sishen.xihale.top/2025/12/19/25.2025%2012.19%2023.17/"/>
+    <published>2025-12-18T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="茶姬"><a href="#茶姬" class="headerlink"]]>
+    </summary>
+    <title>期末备考的心路历程</title>
+    <updated>2026-03-07T07:58:33.322Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/12/10/24%202025%201210%2013%EF%BC%9A26/</id>
+    <link href="https://sishen.xihale.top/2025/12/10/24%202025%201210%2013%EF%BC%9A26/"/>
+    <published>2025-12-09T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>最近发现一个有趣的现象，有人在别人表达一个自己不认可的观点时，他们会不假思索的反驳。这有点像反驳型人格。我只是觉得当别人提出一个新的观点时，我们可以保持怀疑的态度，但我们的反驳与质疑应该建立在思考之后，不假思索的反驳只会让别人觉得思想空虚、固执死板。</p>
+<p>生活费1]]>
+    </summary>
+    <title>周末时光的自我提升</title>
+    <updated>2026-03-07T07:58:33.320Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/12/06/23%202025%201206%2022%EF%BC%9A43/</id>
+    <link href="https://sishen.xihale.top/2025/12/06/23%202025%201206%2022%EF%BC%9A43/"/>
+    <published>2025-12-05T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>一个普通的周六，与朋友圈里的大多数同学不同，我依然呆在学校里，没有出去逛。一方面，学业有点重，另一方面，不知道去哪好。直觉告诉我在大学城周边走走也行，可是我没有。时光匆匆，已经开学三个月了，基本适应了学校的生活。]]>
+    </summary>
+    <title>学习压力与放松方式</title>
+    <updated>2026-03-07T07:58:33.319Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/12/02/22.2025%2012.02%2023%EF%BC%9A41/</id>
+    <link href="https://sishen.xihale.top/2025/12/02/22.2025%2012.02%2023%EF%BC%9A41/"/>
+    <published>2025-12-01T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="温水煮青蛙"><a href="#温水煮青蛙" class="headerlink"]]>
+    </summary>
+    <title>十二月伊始的新思考</title>
+    <updated>2026-03-07T07:58:33.316Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/29/21.2025%2011.29%2003%EF%BC%9A07/</id>
+    <link href="https://sishen.xihale.top/2025/11/29/21.2025%2011.29%2003%EF%BC%9A07/"/>
+    <published>2025-11-28T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>敏感的话题<br>高市早苗最近几天发表了不友好的言论，涉及到台湾的问题。站在国家的利益上，我肯定是希望台湾回归中国的。我认为高市有点想武力介入的意思。她同时有女性+右派的buff，能拉拢很多选票，这对她帮助还蛮大的，但也可能会暴露她能力上的不足。在这场政治风波中，国家表达了]]>
+    </summary>
+    <title>月末总结与反思</title>
+    <updated>2026-03-07T07:58:33.314Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/25/20.%202025%2011%2025%200%EF%BC%9A15/</id>
+    <link href="https://sishen.xihale.top/2025/11/25/20.%202025%2011%2025%200%EF%BC%9A15/"/>
+    <published>2025-11-24T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="人的心力是不可再生之物"><a href="#人的心力是不可再生之物" class="headerlink"]]>
+    </summary>
+    <title>感恩节思考与感恩</title>
+    <updated>2026-03-07T07:58:33.311Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/21/19.2025%2011.21%2018%EF%BC%9A45/</id>
+    <link href="https://sishen.xihale.top/2025/11/21/19.2025%2011.21%2018%EF%BC%9A45/"/>
+    <published>2025-11-20T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>走在回宿舍的路上，突然被人叫住了<br>回头一看，年纪跟我差不多大。背着耐克的书包，穿着耐克的鞋子。我回头看了看，知道他要向我推销什么，于是摆了摆手表示拒绝。<br>但我脑子一热，又回头叫住了他，“帅哥你要卖我什么”<br>“洗面奶”<br>“你这一单能拿到多少的回扣？”<]]>
+    </summary>
+    <title>期末复习计划与心态</title>
+    <updated>2026-03-07T07:58:33.305Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/20/18.2025%2011.20%2011%EF%BC%9A02/</id>
+    <link href="https://sishen.xihale.top/2025/11/20/18.2025%2011.20%2011%EF%BC%9A02/"/>
+    <published>2025-11-19T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="祛魅"><a href="#祛魅" class="headerlink"]]>
+    </summary>
+    <title>课堂学习与课外拓展</title>
+    <updated>2026-03-07T07:58:33.303Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/18/16%202025%2011.18%2000%EF%BC%9A06/</id>
+    <link href="https://sishen.xihale.top/2025/11/18/16%202025%2011.18%2000%EF%BC%9A06/"/>
+    <published>2025-11-17T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>四级的试卷依旧有点难，今天主要练了听力。虽然依旧没怎么听懂，但是准确率提高了<br>十二段选十个主旨的题目好恶心，我似乎对英文不敏感，实在是很难看下去</p>
+<p>记得写英语作业和anyview</p>
+<p>不知道我应不应该在这里记录不开心的事情…</p>]]>
+    </summary>
+    <title>深夜思考人生方向</title>
+    <updated>2026-03-07T07:58:33.298Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/18/17.%202025%2011.18%2023%EF%BC%9A58/</id>
+    <link href="https://sishen.xihale.top/2025/11/18/17.%202025%2011.18%2023%EF%BC%9A58/"/>
+    <published>2025-11-17T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="课题"><a href="#课题" class="headerlink"]]>
+    </summary>
+    <title>学习效率与时间管理</title>
+    <updated>2026-03-07T07:58:33.300Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/16/15.2025%2011.16%2023%EF%BC%9A34/</id>
+    <link href="https://sishen.xihale.top/2025/11/16/15.2025%2011.16%2023%EF%BC%9A34/"/>
+    <published>2025-11-15T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>gap了一周，没有锻炼和运动，但这周右肺还是会偶尔有点痛<br>想要保持长期健康的身体，看来真得好好吃早餐，早睡早起。<br>不知道为什么今天头还是疼（虽然好点了</p>
+<p>实话说，最近在犹豫要不要回梅州跑马，可能会回去跑吧</p>
+<p>越到期末就越没时间，我已经没玩]]>
+    </summary>
+    <title>周末外出见闻与感悟</title>
+    <updated>2026-03-07T07:58:33.297Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/14/14.%202025%2011.14%2023.34/</id>
+    <link href="https://sishen.xihale.top/2025/11/14/14.%202025%2011.14%2023.34/"/>
+    <published>2025-11-13T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="是否要留在大城市发展？"><a href="#是否要留在大城市发展？" class="headerlink"]]>
+    </summary>
+    <title>宿舍生活与人际关系</title>
+    <updated>2026-03-07T07:58:33.295Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/13/13.2025%2011.13%2000%EF%BC%9A55/</id>
+    <link href="https://sishen.xihale.top/2025/11/13/13.2025%2011.13%2000%EF%BC%9A55/"/>
+    <published>2025-11-12T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>时间过得很快，马上到周三了，也马上到周末了</p>
+<p>最近的作息确实不太正常，需要改变了，早上不想吃早餐，直接十点钟吃饭，这样子身体会变差的吧？</p>
+<p>其实我们应该珍惜自己的家人（尤其是家人对我们好的话）近年来各种疾病都变得年轻化了]]>
+    </summary>
+    <title>期中考试与学习方法</title>
+    <updated>2026-03-07T07:58:33.292Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/11/12.2025%2011.11%2014%EF%BC%9A09/</id>
+    <link href="https://sishen.xihale.top/2025/11/11/12.2025%2011.11%2014%EF%BC%9A09/"/>
+    <published>2025-11-10T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>今天同学问我有没有看过《上海交通大学学生生存手册》，我说暑假看过</p>
+<p>这个手册写于08年，不过它的内容本身不像标题一样中二，对于我们的抉择和发展可以起到重要的指引作用。我觉得它挺有前瞻性的，也比较真实的揭露了国内本科教育和社会的不足</p>
+<p>我想今天分享给你]]>
+    </summary>
+    <title>光棍节的情感思考</title>
+    <updated>2026-03-07T07:58:33.291Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/11/11.%202025%2011.11%200%EF%BC%9A30/</id>
+    <link href="https://sishen.xihale.top/2025/11/11/11.%202025%2011.11%200%EF%BC%9A30/"/>
+    <published>2025-11-10T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>我一直都不喜欢幼稚的人<br>但我喜欢还留有童心的人，我现在在思考幼稚和童心的区别是什么<br>之前有人问我为什么分手，我都回答我们不合适，当时的我只知道不合适，不知道为什么不合适。我最近想了想，我觉得她可能更像一个小学生，说话做事有时候会不过脑子，还比较倔，不听劝。在新鲜]]>
+    </summary>
+    <title>双十一消费与理性思考</title>
+    <updated>2026-03-07T07:58:33.289Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/09/10.%202025%2011%2009%2023%EF%BC%9A40/</id>
+    <link href="https://sishen.xihale.top/2025/11/09/10.%202025%2011%2009%2023%EF%BC%9A40/"/>
+    <published>2025-11-08T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="消磨和同化"><a href="#消磨和同化" class="headerlink"]]>
+    </summary>
+    <title>周末时光与生活感悟</title>
+    <updated>2026-03-07T07:58:33.288Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/08/9.2025%2011%2008%2015%EF%BC%9A20/</id>
+    <link href="https://sishen.xihale.top/2025/11/08/9.2025%2011%2008%2015%EF%BC%9A20/"/>
+    <published>2025-11-07T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="获取廉价劳动力的方式"><a href="#获取廉价劳动力的方式" class="headerlink"]]>
+    </summary>
+    <title>学习压力与心理调适</title>
+    <updated>2026-03-07T07:58:33.287Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/06/8.2025%2011%2006%20%2021%EF%BC%9A06/</id>
+    <link href="https://sishen.xihale.top/2025/11/06/8.2025%2011%2006%20%2021%EF%BC%9A06/"/>
+    <published>2025-11-05T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="变成平静的人"><a href="#变成平静的人" class="headerlink"]]>
+    </summary>
+    <title>对未来的迷茫与探索</title>
+    <updated>2026-03-07T07:58:33.286Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/04/6.2025%2011.04%200%EF%BC%9A17/</id>
+    <link href="https://sishen.xihale.top/2025/11/04/6.2025%2011.04%200%EF%BC%9A17/"/>
+    <published>2025-11-03T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>今天没什么好说的，当日记写了<br>上午例行翘高数回宿舍自学（dawa）</p>
+<p>错过通勤的高峰期<br>锐评广工的路，又长又窄，早八高峰期往往双向道变单行道（语言难以说明，以后有条件一定拍照）前段时间，某天晚自习下课（高峰期）有个女生摔车了（具体是因为太多车一起堵着]]>
+    </summary>
+    <title>关于人际交往和自我认知</title>
+    <updated>2026-03-07T07:58:33.283Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/04/7.%202025%2011.04%2023.12/</id>
+    <link href="https://sishen.xihale.top/2025/11/04/7.%202025%2011.04%2023.12/"/>
+    <published>2025-11-03T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<p>今天吃饭的时候感到右胸有点疼，是若隐若现的疼，可能是气胸有点复发了，得注重运动量。</p>
+<p>还是不够壮</p>
+<p>阴冷的一天，以及整天的小雨</p>
+<p>吐槽校园跑的app，弹广告这一块极其ex</p>
+<p>今天 简单写了一下英语作业]]>
+    </summary>
+    <title>大学生活的适应与成长</title>
+    <updated>2026-03-07T07:58:33.284Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/03/5.2025%2011.03%200%EF%BC%9A31/</id>
+    <link href="https://sishen.xihale.top/2025/11/03/5.2025%2011.03%200%EF%BC%9A31/"/>
+    <published>2025-11-02T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="感觉最近花钱过头了"><a href="#感觉最近花钱过头了" class="headerlink"]]>
+    </summary>
+    <title>消费观念与人的社会化进程</title>
+    <updated>2026-03-07T07:58:33.281Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="日记" scheme="https://sishen.xihale.top/categories/%E6%97%A5%E8%AE%B0/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="随笔" scheme="https://sishen.xihale.top/tags/%E9%9A%8F%E7%AC%94/"/>
+    <id>https://sishen.xihale.top/2025/11/01/4.2025%2011.01%200%EF%BC%9A43/</id>
+    <link href="https://sishen.xihale.top/2025/11/01/4.2025%2011.01%200%EF%BC%9A43/"/>
+    <published>2025-10-31T16:00:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="未来的方向"><a href="#未来的方向" class="headerlink"]]>
+    </summary>
+    <title>对学历内卷和读研成本的深度思考</title>
+    <updated>2026-03-07T07:58:33.280Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="随笔" scheme="https://sishen.xihale.top/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="思考" scheme="https://sishen.xihale.top/tags/%E6%80%9D%E8%80%83/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="教育" scheme="https://sishen.xihale.top/tags/%E6%95%99%E8%82%B2/"/>
+    <id>https://sishen.xihale.top/2025/10/30/3.2025%2010.30%2021%EF%BC%9A23/</id>
+    <link href="https://sishen.xihale.top/2025/10/30/3.2025%2010.30%2021%EF%BC%9A23/"/>
+    <published>2025-10-30T13:23:00.000Z</published>
+    <summary>
+      <![CDATA[<h2 id="关于厌蠢症"><a href="#关于厌蠢症" class="headerlink"]]>
+    </summary>
+    <title>关于厌蠢症和大学高中化的思考</title>
+    <updated>2026-03-07T07:58:33.279Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="随笔" scheme="https://sishen.xihale.top/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="思考" scheme="https://sishen.xihale.top/tags/%E6%80%9D%E8%80%83/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <id>https://sishen.xihale.top/2025/10/28/1.2025%2010.28%2023%EF%BC%9A21/</id>
+    <link href="https://sishen.xihale.top/2025/10/28/1.2025%2010.28%2023%EF%BC%9A21/"/>
+    <published>2025-10-28T15:21:00.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="关于”我恨有钱人”"><a href="#关于”我恨有钱人”" class="headerlink"]]>
+    </summary>
+    <title>关于&quot;我恨有钱人&quot;与&quot;先富不会带动后富&quot;的思考</title>
+    <updated>2026-03-07T07:58:33.276Z</updated>
+  </entry>
+  <entry>
+    <author>
+      <name>董卓</name>
+    </author>
+    <category term="随笔" scheme="https://sishen.xihale.top/categories/%E9%9A%8F%E7%AC%94/"/>
+    <category term="思考" scheme="https://sishen.xihale.top/tags/%E6%80%9D%E8%80%83/"/>
+    <category term="生活" scheme="https://sishen.xihale.top/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="学习" scheme="https://sishen.xihale.top/tags/%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://sishen.xihale.top/2025/10/28/2.2025.10.28%2000%EF%BC%9A03/</id>
+    <link href="https://sishen.xihale.top/2025/10/28/2.2025.10.28%2000%EF%BC%9A03/"/>
+    <published>2025-10-27T16:03:00.000Z</published>
+    <summary>
+      <![CDATA[<h1 id="其实有很多话要说，不知道从何说起"><a href="#其实有很多话要说，不知道从何说起" class="headerlink" title="其实有很多话要说，不知道从何说起"></a>其实有很多话要说，不知道从何说起</h1><h4]]>
+    </summary>
+    <title>其实有很多话要说，不知道从何说起</title>
+    <updated>2026-03-07T07:58:33.278Z</updated>
   </entry>
 </feed>
