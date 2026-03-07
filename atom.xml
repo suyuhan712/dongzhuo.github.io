@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <author>
+    <name>John Doe</name>
+  </author>
+  <generator uri="https://hexo.io/">Hexo</generator>
+  <icon>https://sishen.xihale.top/icon.png</icon>
+  <id>https://sishen.xihale.top/</id>
+  <link href="https://sishen.xihale.top/" rel="alternate"/>
+  <link href="https://sishen.xihale.top/atom.xml" rel="self"/>
+  <rights>All rights reserved 2026, John Doe</rights>
+  <title>Hexo</title>
+  <updated>2026-03-07T06:50:25.657Z</updated>
+  <entry>
+    <author>
+      <name>John Doe</name>
+    </author>
+    <id>https://sishen.xihale.top/2026/03/07/hello-world/</id>
+    <link href="https://sishen.xihale.top/2026/03/07/hello-world/"/>
+    <published>2026-03-07T06:51:09.758Z</published>
+    <summary>
+      <![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a>]]>
+    </summary>
+    <title>Hello World</title>
+    <updated>2026-03-07T06:50:25.657Z</updated>
+  </entry>
+</feed>
